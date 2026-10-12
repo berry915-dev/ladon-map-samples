@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "packs": [
+    {
+      "id": "jackson-city-sample",
+      "name": "Jackson city \u00b7 public places",
+      "bounds": [
+        -90.26,
+        32.23,
+        -90.03,
+        32.4
+      ],
+      "timeZone": "America/Chicago",
+      "dataDate": "2026-09-23",
+      "chainDataDate": "2026-10-03",
+      "bytes": 5172373,
+      "sha256": "b4e616da314137a4ac82db87f88006b21536ce3e3aa31ee65893383421179e5a",
+      "url": "https://raw.githubusercontent.com/berry915-dev/ladon-map-samples/main/jackson-city-2026-10.ladonplaces"
+    }
+  ]
+}
