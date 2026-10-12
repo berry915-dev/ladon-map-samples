@@ -1,0 +1,9 @@
+LADON regional sample data
+
+13,071 public POIs around Jackson, Mississippi. Overture snapshot: 2026-09-23. AllThePlaces chain snapshot: 2026-10-03. No private destinations, device data or address-parcel source is included.
+
+Filters: Parking, Fuel, Charging, Food, Rest stops. Missing facilities are not inferred from names. Charging and rest-stop coverage in this region is sparse; an empty result is valid.
+
+31 matching named chain branches were enriched within 45 m, with conflicting street numbers rejected and field-level dates retained. These sources are snapshots; freshness does not guarantee opening hours or business status.
+
+The ZIP contains places.sqlite, taxonomy, stable IDs, per-record source licenses, field provenance, catalog checksums and full license texts. Data: CDLA-Permissive-2.0 / Apache-2.0 / CC0-1.0 as recorded. Overture attribution: https://docs.overturemaps.org/attribution/ . AllThePlaces: https://www.alltheplaces.xyz/ . See manifest and licenses for full notices.
